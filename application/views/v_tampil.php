@@ -14,7 +14,7 @@
         <a href="<?php echo base_url('auth/logout'); ?>">Logout (Keluar)</a>
 
         <hr>
-        <a href="<?php echo base_url('mahasiswa/tambah'); ?>" class="btn btn-primary mb-3">+ Tambah Data</a>
+        <a href="<?php echo base_url('mahasiswa/tambah'); ?>" class="btn btn-success mb-3">+ Tambah Data</a>
         <div class="row" style="margin-bottom: 20px;">
             <div class="col-md-6">
                 <form action="<?php echo base_url('mahasiswa'); ?>" method="post">
