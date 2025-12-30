@@ -2,7 +2,9 @@
 <html>
 
 <head>
-    <title>CRUD CodeIgniter 3</title>
+    <title>Aplikasi CRUD Keren</title>
+
+    <link rel="shortcut icon" href="<?php echo base_url('assets/img/logo.png'); ?>">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
