@@ -11,9 +11,6 @@
 <body>
     <div class="container mt-5">
         <h1>Daftar Mahasiswa (Versi Develop)</h1>
-        <h3 style="color: red; border: 1px solid red; padding: 10px;">
-            ⚠️ INI ADALAH MODE TESTING (DEVELOP)
-        </h3>
         <p>Halo, <b><?php echo $this->session->userdata("nama"); ?></b></p>
 
         <a href="<?php echo base_url('auth/logout'); ?>">Logout (Keluar)</a>
